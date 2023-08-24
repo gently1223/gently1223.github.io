@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b588b212.css",
+    "main.css": "/static/css/main.c4416a08.css",
     "main.js": "/static/js/main.fd0d5489.js",
     "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
     "static/media/fake_verthandi.mp3": "/static/media/fake_verthandi.1bfdae75c93510cd8086.mp3",
@@ -13,12 +13,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.b588b212.css.map": "/static/css/main.b588b212.css.map",
+    "main.c4416a08.css.map": "/static/css/main.c4416a08.css.map",
     "main.fd0d5489.js.map": "/static/js/main.fd0d5489.js.map",
     "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b588b212.css",
+    "static/css/main.c4416a08.css",
     "static/js/main.fd0d5489.js"
   ]
 }
