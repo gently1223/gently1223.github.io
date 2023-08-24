@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4416a08.css",
-    "main.js": "/static/js/main.fd0d5489.js",
+    "main.css": "/static/css/main.7801e558.css",
+    "main.js": "/static/js/main.289b105d.js",
     "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
     "static/media/fake_verthandi.mp3": "/static/media/fake_verthandi.1bfdae75c93510cd8086.mp3",
+    "static/media/avatar-1.jpg": "/static/media/avatar-1.7da70be6f47b7dd998b6.jpg",
     "static/media/codechef.png": "/static/media/codechef.5c3c490e18158a0f1415.png",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/Sudip_logo_white.png": "/static/media/Sudip_logo_white.65b12f5cb1b6f53e4204.png",
@@ -13,12 +14,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.c4416a08.css.map": "/static/css/main.c4416a08.css.map",
-    "main.fd0d5489.js.map": "/static/js/main.fd0d5489.js.map",
+    "main.7801e558.css.map": "/static/css/main.7801e558.css.map",
+    "main.289b105d.js.map": "/static/js/main.289b105d.js.map",
     "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4416a08.css",
-    "static/js/main.fd0d5489.js"
+    "static/css/main.7801e558.css",
+    "static/js/main.289b105d.js"
   ]
 }
