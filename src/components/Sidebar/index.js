@@ -1,7 +1,7 @@
 import './index.scss'
 import LogoS from '../../assets/images/logo-s.png'
 import codechefLogo from '../../assets/images/codechef.png'
-import LogoSubtitle from '../../assets/images/Sudip_logo_white.png'
+import LogoSubtitle from '../../assets/images/August.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 import {
@@ -17,7 +17,7 @@ const Sidebar = () => {
     <>
       <div className="nav-bar">
         <Link className="logo" to="/">
-          <img src={LogoS} alt="Logo" />
+          {/* <img src={LogoS} alt="Logo" /> */}
           <img className="sub-logo" src={LogoSubtitle} alt="slobodan" />
         </Link>
         <nav>
@@ -47,7 +47,7 @@ const Sidebar = () => {
         <ul>
           <li>
             <a
-              href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/"
+              href="https://www.linkedin.com/in/august-jachowski-597274251/"
               target="_blank"
               rel="noreferrer"
             >
@@ -56,14 +56,14 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="https://github.com/metal-oopa"
+              href="https://github.com/gently1223"
               target="_blank"
               rel="noreferrer"
             >
               <FontAwesomeIcon icon={faGithub} color="#b9b9b9" />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href="https://www.codechef.com/users/metal_oopa"
               target="_blank"
@@ -71,7 +71,7 @@ const Sidebar = () => {
             >
               <img src={codechefLogo} width="24" alt="Codechef" />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </>
