@@ -9,7 +9,7 @@ const Logo = () => {
   const solidLogoRef = useRef()
 
   return (
-    <div className="logo-container" ref={bgRef}>
+    <div className="logo-container block" ref={bgRef}>
       <img
         className="solid-logo"
         ref={solidLogoRef}
